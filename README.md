@@ -181,6 +181,7 @@ check freeBSD version: uname -mrs or freebsd-version -k
 
 [break into openbsd](https://swordfish.wordpress.com/2006/06/23/openbsd-hack-single-user-mode-reset-root-password/)
 
+[advanced openbsd hardening](http://spb.sdf.org/presentations/openbsd.pdf)
 
 # Services
 
@@ -203,6 +204,9 @@ check freeBSD version: uname -mrs or freebsd-version -k
 [harden postfix](https://linux-audit.com/postfix-hardening-guide-for-security-and-privacy/)
 
 [hardening ssl of apache, dovecot, and postfix](https://tipstricks.itmatrix.eu/hardening-the-ssl-security-in-postfix/)
+
+### dns
+[harden bind8 dns](http://www.boran.com/security/sp/bind_hardening8.html)
 
 # Tools 
 [package manager: Lynis](https://cisofy.com/documentation/lynis/get-started/#installation-package)
