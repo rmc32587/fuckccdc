@@ -90,7 +90,7 @@ check redhat version: cat /etc/redhat-release
 
 [RHEL 6 hardening config](https://static.open-scap.org/ssg-guides/ssg-rhel6-guide-C2S.html)
 
-[basic centos/rhel 6 hardening guide]([rehat linux hardening tips and bash script](http://www.binbert.com/blog/2011/01/redhat-linux-hardening/)
+[rehat linux hardening tips and bash script](http://www.binbert.com/blog/2011/01/redhat-linux-hardening/)
 
 [DISA STIG/USGBCB/NSA SNAC hardening scripts for red hat 6](https://github.com/fcaviggia/hardening-script-el6)
 
